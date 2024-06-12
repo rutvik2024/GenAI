@@ -1,0 +1,13 @@
+langchain-community
+cassio
+datasets
+langchain
+tiktoken
+sentence_transformers
+llama-cpp-python
+ctransformers
+transformers 
+einops 
+accelerate
+bitsandbytes
+  
